@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.savorfamily.com",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "72.50%",
+    "uptime": "72.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.94%",
-    "uptimeYear": "72.50%",
+    "uptimeMonth": "82.34%",
+    "uptimeYear": "72.92%",
     "time": 646,
     "timeDay": 457,
     "timeWeek": 423,
@@ -43,14 +43,14 @@
     "icon": "https://favicons.githubusercontent.com/www.andong-ch.org",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "95.38%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "93.55%",
-    "uptimeYear": "95.38%",
+    "uptimeYear": "95.45%",
     "time": 2759,
     "timeDay": 1576,
-    "timeWeek": 3721,
+    "timeWeek": 3934,
     "timeMonth": 2663,
     "timeYear": 2759,
     "dailyMinutesDown": {
@@ -94,9 +94,9 @@
     "url": "http://www.istent.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.istent.co.kr",
     "slug": "istent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 1246,
     "timeMonth": 3125,
     "timeYear": 2928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   }
 ]
