@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 533,
-    "timeDay": 466,
-    "timeWeek": 902,
-    "timeMonth": 560,
+    "timeDay": 402,
+    "timeWeek": 895,
+    "timeMonth": 556,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2022-12-24": 111,
@@ -37,8 +37,7 @@
       "2022-05-14": 185,
       "2022-05-05": 20,
       "2022-04-16": 30,
-      "2022-03-24": 70,
-      "2022-03-23": 316
+      "2022-03-24": 70
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.99%",
-    "time": 2172,
-    "timeDay": 1621,
-    "timeWeek": 2179,
-    "timeMonth": 1857,
+    "time": 2170,
+    "timeDay": 1173,
+    "timeWeek": 2105,
+    "timeMonth": 1825,
     "timeYear": 2104,
     "dailyMinutesDown": {
       "2023-03-02": 20,
@@ -87,8 +86,7 @@
       "2022-04-05": 50,
       "2022-04-03": 23,
       "2022-04-02": 21,
-      "2022-03-24": 70,
-      "2022-03-23": 314
+      "2022-03-24": 70
     }
   },
   {
@@ -102,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2333,
-    "timeDay": 2337,
-    "timeWeek": 2092,
-    "timeMonth": 2273,
+    "time": 2332,
+    "timeDay": 1717,
+    "timeWeek": 2006,
+    "timeMonth": 2243,
     "timeYear": 2326,
     "dailyMinutesDown": {
       "2023-02-11": 30,
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
-    "time": 1930,
-    "timeDay": 1710,
-    "timeWeek": 2766,
-    "timeMonth": 1691,
-    "timeYear": 1851,
+    "time": 1929,
+    "timeDay": 1538,
+    "timeWeek": 2805,
+    "timeMonth": 1703,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2023-02-27": 18,
       "2023-02-13": 26,
