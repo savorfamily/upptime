@@ -11,8 +11,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.11%",
     "time": 529,
-    "timeDay": 436,
-    "timeWeek": 426,
+    "timeDay": 406,
+    "timeWeek": 419,
     "timeMonth": 536,
     "timeYear": 522,
     "dailyMinutesDown": {
@@ -34,8 +34,7 @@
       "2022-08-05": 79,
       "2022-07-15": 38,
       "2022-06-21": 668,
-      "2022-06-20": 1326,
-      "2022-05-14": 185
+      "2022-06-20": 1326
     }
   },
   {
@@ -44,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.06%",
-    "time": 2179,
-    "timeDay": 1511,
-    "timeWeek": 3758,
-    "timeMonth": 2700,
-    "timeYear": 2107,
+    "time": 2178,
+    "timeDay": 2028,
+    "timeWeek": 3475,
+    "timeMonth": 2701,
+    "timeYear": 2108,
     "dailyMinutesDown": {
       "2023-05-10": 64,
       "2023-05-09": 22,
@@ -81,8 +80,7 @@
       "2022-08-05": 78,
       "2022-07-15": 37,
       "2022-06-21": 668,
-      "2022-06-20": 1325,
-      "2022-05-14": 197
+      "2022-06-20": 1325
     }
   },
   {
@@ -97,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 2316,
-    "timeDay": 1840,
-    "timeWeek": 2067,
+    "timeDay": 2169,
+    "timeWeek": 2072,
     "timeMonth": 2106,
     "timeYear": 2338,
     "dailyMinutesDown": {
@@ -121,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1893,
-    "timeDay": 1261,
-    "timeWeek": 1432,
-    "timeMonth": 1697,
-    "timeYear": 1747,
+    "time": 1892,
+    "timeDay": 1366,
+    "timeWeek": 1446,
+    "timeMonth": 1695,
+    "timeYear": 1746,
     "dailyMinutesDown": {
       "2023-02-27": 18,
       "2023-02-13": 26,
