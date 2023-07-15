@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.48%",
-    "time": 535,
-    "timeDay": 507,
-    "timeWeek": 940,
-    "timeMonth": 580,
+    "time": 534,
+    "timeDay": 435,
+    "timeWeek": 937,
+    "timeMonth": 581,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2023-07-12": 133,
@@ -33,8 +33,7 @@
       "2022-09-15": 469,
       "2022-08-14": 26,
       "2022-08-10": 202,
-      "2022-08-05": 79,
-      "2022-07-15": 38
+      "2022-08-05": 79
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.41%",
-    "time": 2283,
-    "timeDay": 1903,
-    "timeWeek": 3010,
-    "timeMonth": 2422,
-    "timeYear": 2355,
+    "time": 2281,
+    "timeDay": 1071,
+    "timeWeek": 2939,
+    "timeMonth": 2298,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2023-07-12": 166,
       "2023-06-09": 29,
@@ -83,8 +82,7 @@
       "2022-09-15": 469,
       "2022-08-14": 26,
       "2022-08-10": 201,
-      "2022-08-05": 78,
-      "2022-07-15": 37
+      "2022-08-05": 78
     }
   },
   {
@@ -98,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2313,
-    "timeDay": 2582,
-    "timeWeek": 2152,
-    "timeMonth": 2331,
+    "time": 2314,
+    "timeDay": 1982,
+    "timeWeek": 2103,
+    "timeMonth": 2323,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2023-06-09": 26,
@@ -126,9 +124,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
     "time": 1904,
-    "timeDay": 1243,
-    "timeWeek": 1676,
-    "timeMonth": 1848,
+    "timeDay": 1422,
+    "timeWeek": 1727,
+    "timeMonth": 1835,
     "timeYear": 1806,
     "dailyMinutesDown": {
       "2023-07-12": 55,
