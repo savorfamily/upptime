@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "96.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.49%",
     "time": 524,
-    "timeDay": 441,
+    "timeDay": 409,
     "timeWeek": 421,
-    "timeMonth": 563,
+    "timeMonth": 564,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2023-07-12": 133,
@@ -32,8 +32,7 @@
       "2022-09-20": 38,
       "2022-09-15": 469,
       "2022-08-14": 26,
-      "2022-08-10": 202,
-      "2022-08-05": 79
+      "2022-08-10": 202
     }
   },
   {
@@ -42,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.42%",
-    "time": 2249,
-    "timeDay": 1801,
-    "timeWeek": 1723,
-    "timeMonth": 2181,
-    "timeYear": 2351,
+    "time": 2247,
+    "timeDay": 1163,
+    "timeWeek": 1687,
+    "timeMonth": 2165,
+    "timeYear": 2350,
     "dailyMinutesDown": {
       "2023-07-12": 166,
       "2023-06-09": 29,
@@ -81,8 +80,7 @@
       "2022-09-20": 37,
       "2022-09-15": 469,
       "2022-08-14": 26,
-      "2022-08-10": 201,
-      "2022-08-05": 78
+      "2022-08-10": 201
     }
   },
   {
@@ -96,10 +94,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2323,
-    "timeDay": 2736,
-    "timeWeek": 2327,
-    "timeMonth": 2245,
+    "time": 2324,
+    "timeDay": 2365,
+    "timeWeek": 2436,
+    "timeMonth": 2249,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2023-06-09": 26,
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
-    "time": 1887,
-    "timeDay": 1281,
-    "timeWeek": 1372,
-    "timeMonth": 1477,
-    "timeYear": 1790,
+    "time": 1886,
+    "timeDay": 1400,
+    "timeWeek": 1360,
+    "timeMonth": 1483,
+    "timeYear": 1791,
     "dailyMinutesDown": {
       "2023-07-12": 55,
       "2023-02-27": 18,
@@ -136,8 +134,7 @@
       "2023-01-13": 86,
       "2022-12-23": 139,
       "2022-09-20": 49,
-      "2022-08-15": 19,
-      "2022-08-05": 78
+      "2022-08-15": 19
     }
   }
 ]
