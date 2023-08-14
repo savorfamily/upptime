@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 520,
-    "timeDay": 531,
+    "timeDay": 446,
     "timeWeek": 446,
-    "timeMonth": 432,
+    "timeMonth": 430,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2023-07-12": 133,
@@ -30,8 +30,7 @@
       "2022-11-30": 42,
       "2022-10-31": 19,
       "2022-09-20": 38,
-      "2022-09-15": 469,
-      "2022-08-14": 26
+      "2022-09-15": 469
     }
   },
   {
@@ -40,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 2208,
-    "timeDay": 1753,
-    "timeWeek": 1747,
-    "timeMonth": 1797,
-    "timeYear": 2358,
+    "time": 2216,
+    "timeDay": 5492,
+    "timeWeek": 2237,
+    "timeMonth": 1909,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2023-07-12": 166,
       "2023-06-09": 29,
@@ -77,8 +76,7 @@
       "2022-10-27": 27,
       "2022-09-30": 33,
       "2022-09-20": 37,
-      "2022-09-15": 469,
-      "2022-08-14": 26
+      "2022-09-15": 469
     }
   },
   {
@@ -92,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2327,
-    "timeDay": 2354,
-    "timeWeek": 2247,
-    "timeMonth": 2282,
-    "timeYear": 2333,
+    "time": 2326,
+    "timeDay": 2238,
+    "timeWeek": 2192,
+    "timeMonth": 2272,
+    "timeYear": 2334,
     "dailyMinutesDown": {
       "2023-06-09": 26,
       "2023-06-01": 23,
@@ -118,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1886,
-    "timeDay": 1222,
-    "timeWeek": 1221,
-    "timeMonth": 1551,
-    "timeYear": 1797,
+    "time": 1885,
+    "timeDay": 1203,
+    "timeWeek": 1180,
+    "timeMonth": 1550,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2023-07-12": 55,
       "2023-02-27": 18,
