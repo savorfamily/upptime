@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 508,
-    "timeDay": 420,
-    "timeWeek": 439,
-    "timeMonth": 440,
+    "time": 509,
+    "timeDay": 493,
+    "timeWeek": 456,
+    "timeMonth": 442,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2023-07-12": 133,
@@ -29,8 +29,7 @@
       "2022-12-01": 35,
       "2022-11-30": 42,
       "2022-10-31": 19,
-      "2022-09-20": 38,
-      "2022-09-15": 469
+      "2022-09-20": 38
     }
   },
   {
@@ -39,16 +38,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.96%",
+    "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 2211,
-    "timeDay": 1509,
-    "timeWeek": 1597,
-    "timeMonth": 1768,
-    "timeYear": 2324,
+    "time": 2210,
+    "timeDay": 1988,
+    "timeWeek": 1700,
+    "timeMonth": 1786,
+    "timeYear": 2325,
     "dailyMinutesDown": {
       "2023-07-12": 166,
       "2023-06-09": 29,
@@ -75,8 +74,7 @@
       "2022-10-31": 19,
       "2022-10-27": 27,
       "2022-09-30": 33,
-      "2022-09-20": 37,
-      "2022-09-15": 469
+      "2022-09-20": 37
     }
   },
   {
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.86%",
-    "time": 2307,
-    "timeDay": 1890,
-    "timeWeek": 2185,
-    "timeMonth": 2293,
-    "timeYear": 2323,
+    "time": 2306,
+    "timeDay": 1849,
+    "timeWeek": 2167,
+    "timeMonth": 2284,
+    "timeYear": 2321,
     "dailyMinutesDown": {
       "2023-08-30": 25,
       "2023-08-22": 16,
@@ -119,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 1797,
-    "timeDay": 961,
-    "timeWeek": 1336,
-    "timeMonth": 1547,
-    "timeYear": 1774,
+    "time": 1791,
+    "timeDay": 1500,
+    "timeWeek": 1345,
+    "timeMonth": 1562,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2023-08-19": 17,
       "2023-07-12": 55,
