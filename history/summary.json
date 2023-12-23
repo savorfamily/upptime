@@ -11,18 +11,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 505,
-    "timeDay": 403,
-    "timeWeek": 473,
+    "timeDay": 538,
+    "timeWeek": 475,
     "timeMonth": 478,
-    "timeYear": 508,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-11-21": 43,
       "2023-11-12": 115,
       "2023-07-12": 133,
       "2023-05-17": 68,
       "2023-05-10": 46,
-      "2022-12-24": 111,
-      "2022-12-23": 885
+      "2022-12-24": 111
     }
   },
   {
@@ -32,17 +31,17 @@
     "slug": "andong-ch",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
     "time": 2454,
-    "timeDay": 7115,
-    "timeWeek": 3334,
-    "timeMonth": 2457,
+    "timeDay": 7061,
+    "timeWeek": 3313,
+    "timeMonth": 2447,
     "timeYear": 2469,
     "dailyMinutesDown": {
-      "2023-12-22": 28,
+      "2023-12-22": 18,
       "2023-11-21": 43,
       "2023-11-12": 113,
       "2023-11-08": 35,
@@ -60,8 +59,7 @@
       "2023-03-02": 20,
       "2023-02-12": 23,
       "2023-02-07": 41,
-      "2022-12-24": 111,
-      "2022-12-23": 885
+      "2022-12-24": 111
     }
   },
   {
@@ -72,13 +70,13 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "97.06%",
-    "uptimeWeek": "98.09%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.78%",
     "time": 2347,
-    "timeDay": 4315,
-    "timeWeek": 3478,
-    "timeMonth": 2615,
+    "timeDay": 4493,
+    "timeWeek": 3544,
+    "timeMonth": 2613,
     "timeYear": 2309,
     "dailyMinutesDown": {
       "2023-12-22": 42,
@@ -117,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1758,
-    "timeDay": 1504,
-    "timeWeek": 2639,
-    "timeMonth": 2137,
-    "timeYear": 1769,
+    "time": 1765,
+    "timeDay": 5491,
+    "timeWeek": 3231,
+    "timeMonth": 2272,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2023-08-19": 17,
       "2023-07-12": 55,
@@ -129,8 +127,7 @@
       "2023-02-13": 26,
       "2023-01-30": 15,
       "2023-01-28": 16,
-      "2023-01-13": 86,
-      "2022-12-23": 139
+      "2023-01-13": 86
     }
   }
 ]
