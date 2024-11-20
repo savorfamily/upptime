@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "94.97%",
-    "time": 627,
-    "timeDay": 1183,
-    "timeWeek": 1159,
-    "timeMonth": 1228,
-    "timeYear": 691,
+    "time": 628,
+    "timeDay": 862,
+    "timeWeek": 1121,
+    "timeMonth": 1223,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2024-10-28": 42,
       "2024-10-15": 177,
@@ -46,8 +46,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 262,
-      "2024-04-08": 38,
-      "2023-11-21": 43
+      "2024-04-08": 38
     }
   },
   {
@@ -56,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 2385,
-    "timeDay": 1889,
-    "timeWeek": 2397,
-    "timeMonth": 2023,
+    "timeDay": 2125,
+    "timeWeek": 2408,
+    "timeMonth": 2021,
     "timeYear": 2300,
     "dailyMinutesDown": {
       "2024-10-06": 115,
@@ -102,8 +101,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 921,
       "2024-04-08": 37,
-      "2023-12-22": 18,
-      "2023-11-21": 43
+      "2023-12-22": 18
     }
   },
   {
@@ -117,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
-    "time": 2881,
-    "timeDay": 2632,
-    "timeWeek": 3034,
-    "timeMonth": 2864,
-    "timeYear": 3060,
+    "time": 2883,
+    "timeDay": 3635,
+    "timeWeek": 3154,
+    "timeMonth": 2907,
+    "timeYear": 3063,
     "dailyMinutesDown": {
       "2024-08-24": 17,
       "2024-05-13": 88,
@@ -162,10 +160,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.09%",
     "time": 1603,
-    "timeDay": 710,
-    "timeWeek": 1008,
-    "timeMonth": 1119,
-    "timeYear": 1595,
+    "timeDay": 973,
+    "timeWeek": 951,
+    "timeMonth": 1126,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2024-10-06": 115,
       "2024-10-05": 97,
