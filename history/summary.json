@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "95.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.11%",
+    "uptimeWeek": "20.44%",
     "uptimeMonth": "79.30%",
     "uptimeYear": "93.25%",
     "time": 647,
@@ -118,17 +118,17 @@
     "slug": "cubeent",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "85.63%",
-    "uptimeWeek": "68.66%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "86.62%",
+    "uptimeWeek": "68.89%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "97.71%",
     "time": 3432,
     "timeDay": 5470,
     "timeWeek": 5379,
     "timeMonth": 5059,
     "timeYear": 3664,
     "dailyMinutesDown": {
-      "2024-12-03": 207,
+      "2024-12-03": 193,
       "2024-12-02": 601,
       "2024-12-01": 388,
       "2024-11-30": 626,
@@ -149,7 +149,7 @@
       "2024-02-10": 1440,
       "2024-02-09": 1423,
       "2024-02-08": 1151,
-      "2024-02-07": 387
+      "2024-02-07": 455
     }
   },
   {
