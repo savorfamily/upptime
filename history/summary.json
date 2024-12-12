@@ -63,7 +63,7 @@
     "slug": "andong-ch",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "65.26%",
+    "uptimeDay": "68.76%",
     "uptimeWeek": "88.68%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "97.77%",
@@ -118,11 +118,11 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.24%",
+    "uptimeDay": "90.23%",
     "uptimeWeek": "91.31%",
-    "uptimeMonth": "92.15%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 3497,
     "timeDay": 3878,
@@ -144,7 +144,7 @@
       "2024-12-01": 388,
       "2024-11-30": 626,
       "2024-11-29": 358,
-      "2024-11-28": 125
+      "2024-11-28": 98
     }
   },
   {
@@ -154,7 +154,7 @@
     "slug": "istent",
     "status": "up",
     "uptime": "94.22%",
-    "uptimeDay": "65.25%",
+    "uptimeDay": "68.74%",
     "uptimeWeek": "88.69%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "83.87%",
