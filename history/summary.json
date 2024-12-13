@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "95.98%",
+    "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.30%",
@@ -70,7 +70,7 @@
     "time": 2383,
     "timeDay": 2100,
     "timeWeek": 1886,
-    "timeMonth": 2062,
+    "timeMonth": 2065,
     "timeYear": 2305,
     "dailyMinutesDown": {
       "2024-12-12": 294,
@@ -118,17 +118,17 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "64.20%",
-    "uptimeWeek": "87.59%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
-    "time": 3527,
-    "timeDay": 5926,
-    "timeWeek": 4600,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "72.58%",
+    "uptimeWeek": "87.58%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "99.29%",
+    "time": 3529,
+    "timeDay": 6301,
+    "timeWeek": 4571,
     "timeMonth": 5077,
-    "timeYear": 3850,
+    "timeYear": 3856,
     "dailyMinutesDown": {
       "2024-12-13": 375,
       "2024-12-12": 141,
@@ -145,7 +145,7 @@
       "2024-12-01": 388,
       "2024-11-30": 626,
       "2024-11-29": 358,
-      "2024-11-28": 82
+      "2024-11-28": 66
     }
   },
   {
@@ -162,7 +162,7 @@
     "time": 1566,
     "timeDay": 1213,
     "timeWeek": 991,
-    "timeMonth": 927,
+    "timeMonth": 923,
     "timeYear": 1525,
     "dailyMinutesDown": {
       "2024-12-12": 294,
