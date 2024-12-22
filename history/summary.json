@@ -6,7 +6,7 @@
     "slug": "savorfamily",
     "status": "up",
     "uptime": "95.62%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "1.84%",
     "uptimeWeek": "40.54%",
     "uptimeMonth": "65.62%",
     "uptimeYear": "92.11%",
@@ -122,13 +122,13 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "95.83%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "89.19%",
-    "uptimeMonth": "91.59%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
-    "time": 3710,
+    "time": 3712,
     "timeDay": 5016,
     "timeWeek": 4410,
     "timeMonth": 4988,
@@ -155,7 +155,7 @@
       "2024-12-04": 83,
       "2024-12-03": 193,
       "2024-12-02": 601,
-      "2024-12-01": 48
+      "2024-12-01": 27
     }
   },
   {
