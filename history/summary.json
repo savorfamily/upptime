@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andong-ch.org.ico",
     "slug": "andong-ch",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
@@ -124,16 +124,16 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "95.20%",
+    "uptimeDay": "95.18%",
     "uptimeWeek": "91.63%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "99.48%",
-    "time": 4172,
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "99.49%",
+    "time": 4173,
     "timeDay": 3385,
     "timeWeek": 4729,
-    "timeMonth": 4664,
+    "timeMonth": 4651,
     "timeYear": 4397,
     "dailyMinutesDown": {
       "2025-02-09": 51,
@@ -160,7 +160,7 @@
       "2025-01-19": 68,
       "2025-01-18": 134,
       "2025-01-17": 113,
-      "2025-01-16": 41
+      "2025-01-16": 18
     }
   },
   {
