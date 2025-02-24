@@ -13,7 +13,7 @@
     "time": 762,
     "timeDay": 1330,
     "timeWeek": 1023,
-    "timeMonth": 1401,
+    "timeMonth": 1411,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2025-01-02": 151,
@@ -76,7 +76,7 @@
     "time": 2337,
     "timeDay": 1861,
     "timeWeek": 2501,
-    "timeMonth": 2329,
+    "timeMonth": 2342,
     "timeYear": 2261,
     "dailyMinutesDown": {
       "2025-02-14": 125,
@@ -129,17 +129,17 @@
     "slug": "cubeent",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "82.61%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.48%",
     "time": 4289,
     "timeDay": 3647,
     "timeWeek": 4304,
-    "timeMonth": 4475,
+    "timeMonth": 4479,
     "timeYear": 4413,
     "dailyMinutesDown": {
-      "2025-02-23": 250,
+      "2025-02-23": 245,
       "2025-02-22": 101,
       "2025-02-21": 194,
       "2025-02-20": 165,
@@ -159,7 +159,7 @@
       "2025-02-06": 96,
       "2025-02-05": 147,
       "2025-02-04": 113,
-      "2025-02-03": 116
+      "2025-02-03": 133
     }
   },
   {
@@ -176,7 +176,7 @@
     "time": 1490,
     "timeDay": 911,
     "timeWeek": 825,
-    "timeMonth": 1015,
+    "timeMonth": 1016,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-02-14": 125,
