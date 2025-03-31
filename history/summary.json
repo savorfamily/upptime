@@ -140,17 +140,17 @@
     "slug": "cubeent",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "87.17%",
-    "uptimeWeek": "88.35%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "89.14%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.43%",
     "time": 4394,
     "timeDay": 4546,
-    "timeWeek": 4984,
-    "timeMonth": 4782,
+    "timeWeek": 5033,
+    "timeMonth": 4816,
     "timeYear": 4532,
     "dailyMinutesDown": {
-      "2025-03-30": 184,
+      "2025-03-30": 173,
       "2025-03-29": 245,
       "2025-03-28": 67,
       "2025-03-27": 185,
@@ -172,7 +172,7 @@
       "2025-03-11": 99,
       "2025-03-10": 19,
       "2025-03-09": 138,
-      "2025-03-08": 30
+      "2025-03-08": 57
     }
   },
   {
