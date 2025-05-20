@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "93.91%",
-    "time": 1004,
-    "timeDay": 1224,
-    "timeWeek": 1158,
-    "timeMonth": 1410,
-    "timeYear": 1184,
+    "time": 1005,
+    "timeDay": 842,
+    "timeWeek": 1118,
+    "timeMonth": 1401,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-05-09": 330,
       "2025-04-27": 21,
@@ -66,12 +66,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "97.57%",
-    "time": 2430,
-    "timeDay": 2013,
-    "timeWeek": 2047,
-    "timeMonth": 2038,
-    "timeYear": 2481,
+    "uptimeYear": "97.60%",
+    "time": 2429,
+    "timeDay": 1636,
+    "timeWeek": 2017,
+    "timeMonth": 2028,
+    "timeYear": 2479,
     "dailyMinutesDown": {
       "2025-05-16": 41,
       "2025-05-15": 55,
@@ -120,8 +120,7 @@
       "2024-06-11": 18,
       "2024-06-02": 32,
       "2024-05-22": 21,
-      "2024-05-21": 355,
-      "2024-05-20": 1440
+      "2024-05-21": 355
     }
   },
   {
@@ -130,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "99.45%",
-    "time": 4564,
-    "timeDay": 2855,
-    "timeWeek": 4486,
-    "timeMonth": 5000,
-    "timeYear": 4638,
+    "uptime": "99.82%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "99.43%",
+    "time": 4567,
+    "timeDay": 3165,
+    "timeWeek": 4583,
+    "timeMonth": 5041,
+    "timeYear": 4641,
     "dailyMinutesDown": {
-      "2025-05-19": 173,
+      "2025-05-19": 162,
       "2025-05-18": 103,
       "2025-05-17": 71,
       "2025-05-16": 74,
@@ -166,7 +165,7 @@
       "2025-04-27": 306,
       "2025-04-26": 97,
       "2025-04-25": 177,
-      "2025-04-24": 199
+      "2025-04-24": 300
     }
   },
   {
@@ -179,12 +178,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "89.84%",
-    "time": 3055,
-    "timeDay": 1201,
-    "timeWeek": 1045,
-    "timeMonth": 1021,
-    "timeYear": 3419,
+    "uptimeYear": "89.87%",
+    "time": 3054,
+    "timeDay": 709,
+    "timeWeek": 1007,
+    "timeMonth": 1009,
+    "timeYear": 3412,
     "dailyMinutesDown": {
       "2025-05-16": 40,
       "2025-05-15": 55,
@@ -244,8 +243,7 @@
       "2024-07-03": 63,
       "2024-06-15": 22,
       "2024-05-22": 438,
-      "2024-05-21": 1440,
-      "2024-05-20": 1440
+      "2024-05-21": 1440
     }
   }
 ]
