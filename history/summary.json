@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
@@ -127,18 +127,19 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "89.83%",
-    "uptimeWeek": "89.37%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 4599,
-    "timeDay": 6109,
-    "timeWeek": 4978,
+    "timeDay": 5979,
+    "timeWeek": 4947,
     "timeMonth": 4947,
     "timeYear": 4661,
     "dailyMinutesDown": {
+      "2025-05-28": 0,
       "2025-05-27": 146,
       "2025-05-26": 146,
       "2025-05-25": 172,
@@ -163,7 +164,7 @@
       "2025-05-06": 106,
       "2025-05-05": 76,
       "2025-05-04": 119,
-      "2025-05-03": 80
+      "2025-05-03": 59
     }
   },
   {
