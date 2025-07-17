@@ -127,8 +127,7 @@
       "2024-07-22": 25,
       "2024-07-21": 610,
       "2024-07-20": 76,
-      "2024-07-19": 135,
-      "2024-07-17": 20
+      "2024-07-19": 135
     }
   },
   {
@@ -138,14 +137,14 @@
     "slug": "cubeent",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "73.04%",
+    "uptimeDay": "78.45%",
     "uptimeWeek": "74.36%",
     "uptimeMonth": "90.95%",
     "uptimeYear": "99.25%",
     "time": 4734,
-    "timeDay": 5238,
+    "timeDay": 5426,
     "timeWeek": 4786,
-    "timeMonth": 5130,
+    "timeMonth": 5135,
     "timeYear": 4807,
     "dailyMinutesDown": {
       "2025-07-16": 380,
