@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "94.99%",
     "time": 1134,
     "timeDay": 743,
     "timeWeek": 1261,
@@ -51,8 +51,7 @@
       "2024-09-05": 103,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1282,
-      "2024-08-19": 1421
+      "2024-09-02": 1282
     }
   },
   {
@@ -126,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "74.37%",
-    "uptimeWeek": "76.29%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.76%",
+    "uptimeDay": "66.09%",
+    "uptimeWeek": "75.99%",
+    "uptimeMonth": "90.05%",
+    "uptimeYear": "99.17%",
     "time": 4783,
-    "timeDay": 5161,
-    "timeWeek": 4738,
+    "timeDay": 5374,
+    "timeWeek": 4768,
     "timeMonth": 4960,
     "timeYear": 4851,
     "dailyMinutesDown": {
-      "2025-08-18": 368,
+      "2025-08-19": 114,
+      "2025-08-18": 374,
       "2025-08-17": 237,
       "2025-08-16": 485,
       "2025-08-15": 249,
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.istent.co.kr.ico",
     "slug": "istent",
     "status": "up",
-    "uptime": "94.60%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "59.27%",
     "uptimeMonth": "90.43%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.01%",
     "time": 2924,
     "timeDay": 729,
     "timeWeek": 1660,
@@ -208,8 +208,7 @@
       "2024-10-05": 97,
       "2024-09-29": 20,
       "2024-09-11": 46,
-      "2024-09-01": 123,
-      "2024-08-19": 549
+      "2024-09-01": 123
     }
   }
 ]
