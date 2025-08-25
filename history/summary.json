@@ -124,16 +124,16 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "71.23%",
-    "uptimeWeek": "74.57%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "72.43%",
+    "uptimeWeek": "74.56%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "99.26%",
     "time": 4772,
     "timeDay": 4733,
     "timeWeek": 4806,
-    "timeMonth": 4830,
+    "timeMonth": 4823,
     "timeYear": 4854,
     "dailyMinutesDown": {
       "2025-08-25": 319,
@@ -147,7 +147,7 @@
       "2025-08-17": 237,
       "2025-08-16": 485,
       "2025-08-15": 249,
-      "2025-08-14": 178
+      "2025-08-14": 110
     }
   },
   {
