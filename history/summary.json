@@ -59,7 +59,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.87%",
-    "uptimeMonth": "96.74%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "96.63%",
     "time": 2394,
     "timeDay": 2298,
@@ -120,9 +120,9 @@
     "slug": "cubeent",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "80.29%",
-    "uptimeWeek": "83.58%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "81.05%",
+    "uptimeWeek": "84.70%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 4768,
     "timeDay": 5056,
@@ -130,7 +130,7 @@
     "timeMonth": 4489,
     "timeYear": 4820,
     "dailyMinutesDown": {
-      "2025-09-15": 285,
+      "2025-09-15": 274,
       "2025-09-14": 108,
       "2025-09-13": 210,
       "2025-09-12": 264,
@@ -142,7 +142,7 @@
       "2025-09-06": 206,
       "2025-09-05": 259,
       "2025-09-04": 463,
-      "2025-09-03": 161
+      "2025-09-03": 181
     }
   },
   {
@@ -154,7 +154,7 @@
     "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.16%",
-    "uptimeMonth": "96.80%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "96.92%",
     "time": 2871,
     "timeDay": 1442,
