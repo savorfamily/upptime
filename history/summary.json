@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "87.19%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "96.21%",
-    "time": 1172,
-    "timeDay": 1092,
-    "timeWeek": 1038,
-    "timeMonth": 1158,
-    "timeYear": 1335,
+    "time": 1173,
+    "timeDay": 879,
+    "timeWeek": 1034,
+    "timeMonth": 1143,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-10-05": 184,
       "2025-09-27": 18,
@@ -60,12 +60,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.44%",
-    "uptimeYear": "96.65%",
-    "time": 2426,
-    "timeDay": 2973,
-    "timeWeek": 4443,
-    "timeMonth": 2759,
-    "timeYear": 2434,
+    "uptimeYear": "96.69%",
+    "time": 2427,
+    "timeDay": 2380,
+    "timeWeek": 4514,
+    "timeMonth": 2764,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2025-09-11": 157,
       "2025-09-10": 965,
@@ -105,8 +105,7 @@
       "2025-02-12": 915,
       "2025-01-15": 358,
       "2024-12-12": 294,
-      "2024-12-11": 847,
-      "2024-10-06": 115
+      "2024-12-11": 847
     }
   },
   {
@@ -121,9 +120,9 @@
     "uptimeMonth": "92.89%",
     "uptimeYear": "99.41%",
     "time": 4753,
-    "timeDay": 2322,
-    "timeWeek": 2899,
-    "timeMonth": 4365,
+    "timeDay": 2750,
+    "timeWeek": 2818,
+    "timeMonth": 4356,
     "timeYear": 4817,
     "dailyMinutesDown": {
       "2025-09-22": 83,
@@ -152,12 +151,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "96.92%",
-    "time": 2819,
-    "timeDay": 1135,
-    "timeWeek": 1152,
-    "timeMonth": 1099,
-    "timeYear": 3259,
+    "uptimeYear": "96.96%",
+    "time": 2818,
+    "timeDay": 656,
+    "timeWeek": 1145,
+    "timeMonth": 1085,
+    "timeYear": 3253,
     "dailyMinutesDown": {
       "2025-09-11": 157,
       "2025-09-10": 936,
@@ -195,8 +194,7 @@
       "2025-02-12": 914,
       "2025-01-15": 358,
       "2024-12-12": 294,
-      "2024-12-11": 846,
-      "2024-10-06": 115
+      "2024-12-11": 846
     }
   }
 ]
