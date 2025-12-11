@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.97%",
-    "time": 1254,
-    "timeDay": 1603,
-    "timeWeek": 1174,
-    "timeMonth": 1081,
+    "time": 1255,
+    "timeDay": 1181,
+    "timeWeek": 1229,
+    "timeMonth": 1086,
     "timeYear": 1328,
     "dailyMinutesDown": {
       "2025-10-05": 184,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "96.41%",
-    "time": 2389,
-    "timeDay": 1776,
-    "timeWeek": 2001,
-    "timeMonth": 1992,
-    "timeYear": 2476,
+    "time": 2388,
+    "timeDay": 1792,
+    "timeWeek": 1976,
+    "timeMonth": 1980,
+    "timeYear": 2475,
     "dailyMinutesDown": {
       "2025-11-12": 107,
       "2025-11-11": 4,
@@ -100,8 +100,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 915,
       "2025-01-15": 358,
-      "2024-12-12": 294,
-      "2024-12-11": 847
+      "2024-12-12": 294
     }
   },
   {
@@ -115,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 4795,
-    "timeDay": 3342,
-    "timeWeek": 3117,
-    "timeMonth": 3143,
-    "timeYear": 4785,
+    "time": 4794,
+    "timeDay": 3148,
+    "timeWeek": 3255,
+    "timeMonth": 3123,
+    "timeYear": 4788,
     "dailyMinutesDown": {
       "2025-10-07": 24,
       "2025-09-22": 83,
@@ -144,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.istent.co.kr.ico",
     "slug": "istent",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "96.72%",
-    "time": 2768,
-    "timeDay": 1247,
-    "timeWeek": 1171,
-    "timeMonth": 1050,
-    "timeYear": 3287,
+    "time": 2769,
+    "timeDay": 1357,
+    "timeWeek": 1195,
+    "timeMonth": 1056,
+    "timeYear": 3288,
     "dailyMinutesDown": {
       "2025-11-12": 107,
       "2025-11-11": 4,
@@ -195,8 +194,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 914,
       "2025-01-15": 358,
-      "2024-12-12": 294,
-      "2024-12-11": 846
+      "2024-12-12": 294
     }
   }
 ]
