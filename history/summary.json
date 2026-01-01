@@ -14,7 +14,7 @@
     "timeDay": 1221,
     "timeWeek": 1098,
     "timeMonth": 1165,
-    "timeYear": 1332,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2025-10-05": 184,
       "2025-09-27": 18,
@@ -44,12 +44,12 @@
     "status": "up",
     "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "96.63%",
     "time": 2376,
     "timeDay": 1822,
-    "timeWeek": 1792,
+    "timeWeek": 1894,
     "timeMonth": 1928,
     "timeYear": 2473,
     "dailyMinutesDown": {
@@ -103,9 +103,9 @@
     "url": "http://www.cubeent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cubeent.co.kr.ico",
     "slug": "cubeent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
@@ -113,8 +113,9 @@
     "timeDay": 2727,
     "timeWeek": 2804,
     "timeMonth": 3035,
-    "timeYear": 4777,
+    "timeYear": 4774,
     "dailyMinutesDown": {
+      "2026-01-01": 0,
       "2025-10-07": 24,
       "2025-09-22": 83,
       "2025-09-21": 224,
@@ -128,8 +129,7 @@
       "2025-09-13": 210,
       "2025-09-12": 264,
       "2025-09-11": 237,
-      "2025-09-10": 253,
-      "2025-09-09": 17
+      "2025-09-10": 253
     }
   },
   {
@@ -138,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.istent.co.kr.ico",
     "slug": "istent",
     "status": "up",
-    "uptime": "95.00%",
+    "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
