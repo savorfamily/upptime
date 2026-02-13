@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "56.67%",
     "uptimeYear": "95.53%",
-    "time": 1315,
-    "timeDay": 1148,
-    "timeWeek": 1111,
-    "timeMonth": 1388,
-    "timeYear": 1335,
+    "time": 1316,
+    "timeDay": 1025,
+    "timeWeek": 1187,
+    "timeMonth": 1384,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-02-02": 1396,
       "2026-02-01": 1440,
@@ -60,12 +60,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.69%",
-    "time": 2358,
-    "timeDay": 1789,
-    "timeWeek": 1922,
-    "timeMonth": 1960,
-    "timeYear": 2460,
+    "uptimeYear": "96.90%",
+    "time": 2357,
+    "timeDay": 2026,
+    "timeWeek": 1962,
+    "timeMonth": 1958,
+    "timeYear": 2459,
     "dailyMinutesDown": {
       "2025-12-25": 31,
       "2025-11-12": 107,
@@ -106,8 +106,7 @@
       "2025-03-24": 634,
       "2025-03-13": 152,
       "2025-03-09": 22,
-      "2025-02-14": 125,
-      "2025-02-13": 1440
+      "2025-02-14": 125
     }
   },
   {
@@ -121,11 +120,11 @@
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.39%",
-    "time": 4740,
-    "timeDay": 3122,
-    "timeWeek": 3148,
-    "timeMonth": 3056,
-    "timeYear": 4755,
+    "time": 4743,
+    "timeDay": 3148,
+    "timeWeek": 3199,
+    "timeMonth": 3050,
+    "timeYear": 4757,
     "dailyMinutesDown": {
       "2026-02-10": 179,
       "2026-01-05": 15,
@@ -157,12 +156,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
-    "time": 2638,
-    "timeDay": 792,
-    "timeWeek": 934,
-    "timeMonth": 1017,
-    "timeYear": 3280,
+    "uptimeYear": "97.21%",
+    "time": 2640,
+    "timeDay": 1889,
+    "timeWeek": 1101,
+    "timeMonth": 1039,
+    "timeYear": 3277,
     "dailyMinutesDown": {
       "2025-11-12": 107,
       "2025-11-11": 4,
@@ -200,8 +199,7 @@
       "2025-03-25": 876,
       "2025-03-24": 527,
       "2025-03-13": 87,
-      "2025-02-14": 125,
-      "2025-02-13": 1440
+      "2025-02-14": 125
     }
   }
 ]
