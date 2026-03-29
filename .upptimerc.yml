@@ -5,12 +5,12 @@ repo: upptime
 sites:
   - name: savorfamily
     url: http://www.savorfamily.com
-  - name: andong-ch
-    url: http://www.andong-ch.org
   - name: cubeent
     url: http://www.cubeent.co.kr
   - name: istent
     url: http://www.istent.co.kr
+  - name: 111-ent
+    url: http://111-ent.co.kr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
