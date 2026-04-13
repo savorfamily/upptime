@@ -4,18 +4,19 @@
     "url": "http://www.savorfamily.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "95.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "95.61%",
-    "time": 1333,
+    "time": 1334,
     "timeDay": 1237,
     "timeWeek": 860,
     "timeMonth": 1374,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2026-04-13": 1,
       "2026-03-28": 92,
       "2026-02-02": 1396,
       "2026-02-01": 1440,
@@ -62,7 +63,7 @@
     "timeDay": 3072,
     "timeWeek": 3190,
     "timeMonth": 3123,
-    "timeYear": 4687,
+    "timeYear": 4692,
     "dailyMinutesDown": {
       "2026-02-10": 179,
       "2026-01-05": 15,
@@ -89,10 +90,10 @@
     "url": "http://www.istent.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.istent.co.kr.ico",
     "slug": "istent",
-    "status": "up",
+    "status": "down",
     "uptime": "95.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
     "time": 2941,
@@ -101,6 +102,7 @@
     "timeMonth": 1539,
     "timeYear": 1122,
     "dailyMinutesDown": {
+      "2026-04-13": 1,
       "2025-11-12": 107,
       "2025-11-11": 4,
       "2025-10-22": 123,
@@ -137,9 +139,9 @@
     "url": "http://111-ent.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/111-ent.co.kr.ico",
     "slug": "111-ent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,6 +150,8 @@
     "timeWeek": 938,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   }
 ]
