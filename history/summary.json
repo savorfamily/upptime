@@ -4,17 +4,17 @@
     "url": "http://www.savorfamily.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.savorfamily.com.ico",
     "slug": "savorfamily",
-    "status": "down",
-    "uptime": "96.00%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "95.59%",
-    "time": 1291,
-    "timeDay": 1220,
-    "timeWeek": 1361,
-    "timeMonth": 1086,
-    "timeYear": 1177,
+    "status": "up",
+    "uptime": "95.99%",
+    "uptimeDay": "82.94%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "95.57%",
+    "time": 1299,
+    "timeDay": 3113,
+    "timeWeek": 1766,
+    "timeMonth": 1208,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-05-31": 69,
       "2025-06-10": 138,
@@ -45,7 +45,7 @@
       "2026-03-28": 92,
       "2026-04-13": 152,
       "2026-05-18": 165,
-      "2026-05-24": 144
+      "2026-05-24": 246
     }
   },
   {
